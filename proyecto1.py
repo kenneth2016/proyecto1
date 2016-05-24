@@ -4,3 +4,7 @@ def prob_1(n):
 def prob_2 (f):
 	cel= (f-32)/1.8
 	return(cel)
+
+def prob_3 (b,p):
+	res= b**p
+	return(res)
