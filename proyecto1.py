@@ -12,3 +12,10 @@ def prob_3 (b,p):
 def prob_4 (h,l):
 	c = ("*"*(l//2) + h + "*"*(l//2))
 	return c
+
+def prob_5 (v1, v2):
+	res= (v1[0]*v2[0] + v1[1]*v2[1])
+	return (res)
+
+def prob_6 (o):
+	res= o.sort[]
