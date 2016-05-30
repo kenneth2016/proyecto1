@@ -21,4 +21,5 @@ def prob_5 (v1, v2):
 	return (res)
 
 def prob_6 (o):
-	res= o.sort[]
+	o.sort(reverse=True)
+	return o
